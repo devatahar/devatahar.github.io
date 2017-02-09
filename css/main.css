@@ -89,17 +89,18 @@ main {
 }
 
 .logo {
-    background-color: rgba(0,0,0,0.3);
-    border-radius: 5px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
     box-sizing: border-box;
-    height: 24px;
+    height: 36px;
     left: 0;
     margin: 10px 15px;
-    padding: 0 10px;
+    padding: 4px;
     position: fixed;
     text-align: center;
     top: 0;
-    width: 48px;
+    width: 36px;
 }
 
 .head {
