@@ -325,6 +325,10 @@ ul.inline li a.social-link svg {
     .body .name-headline {
         display: block;
     }
+
+    .bio {
+        margin :0;
+    }
 }
 
 @media print,
